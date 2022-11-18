@@ -10,4 +10,4 @@ This game includes a lot of JavaScript for making the functioning of the game.
 
 How To Run the Project?
 
-To run this game, you don’t need to have any kind of local server but yet a browser. We recommend you to use modern browsers like Google Chrome and Mozilla Firefox. To play the game, first, open the game in your browser by URL.
+To run this game, you don’t need to have any kind of local server but yet a browser. We recommend you to use modern browsers like Google Chrome and Mozilla Firefox. To play the game, first, open the game in your browser by (URL). https://shrikantdottechie.github.io/TicTacToe/
